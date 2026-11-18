@@ -10,4 +10,5 @@ Modules:
 
 Technology: Java
 Version Control: Git and GitHub
-Project Status: Development Completed
+
+Project Status: Testing In Progress - Development Completed
